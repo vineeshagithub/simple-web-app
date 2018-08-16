@@ -209,11 +209,6 @@
        				 <version>2.3</version>
 
       			</plugin>
-      			<plugin>
-        				<groupId>com.google.cloud.tools</groupId>
-        				<artifactId>appengine-maven-plugin</artifactId>
-        				<version>${appengine-maven-plugin-version}</version>
-      			</plugin>
     </plugins>
 	</build>
 	<name>simple-web-app</name>
